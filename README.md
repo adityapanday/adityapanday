@@ -6,7 +6,7 @@ app.get("/profile" , function(req , res){
         console.log('oper in another browser for proper img');
         return;
     }
- return    res.redirect('  https://adityapanday.github.io/adityapanday/  :', 3000);
+ return    res.redirect('  https://adityapanday.github.io/adityapanday/ );
     
 });
 
