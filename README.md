@@ -13,5 +13,4 @@ app.get("/profile" , function(req , res){
 
 
 
-django lets maake your life easy 
-  link =  https://adityapanday.github.io/adityapanday/         
+      
